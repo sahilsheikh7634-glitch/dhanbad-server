@@ -1,0 +1,18 @@
+# Dhanbad Open World Game Server 🎮
+
+This is a multiplayer game server built using Node.js and Socket.io.
+
+## Features
+- Real-time multiplayer
+- Player movement sync
+- Simple server setup
+
+## How to run
+1. Install dependencies:
+npm install
+
+2. Start server:
+node server.js
+
+## Status
+Server Running ✅
